@@ -4,11 +4,11 @@
 
 ## 3 models
 
-**HSC_dynamics_model.ka** : Final model describing the behvior of HSC during the development and reversion of fibrosis
+**reactMFB-with-inactivation.ka** : Final model describing the behvior of HSC during the development and reversion of fibrosis
 
-**HSC_dynamics_model_without_reactMFB_inactivation.ka** : Model where the reactivation MFB are eliminated only by apoptosis/senescence
+**reactMFB-wo-inactivation.ka** : Model where the reactivation MFB are eliminated only by apoptosis/senescence
 
-**HSC_dynamics_model_iHSC_reversion** : HSC_dynamics_model.ka where was add rules describing the reversion of iHSC toward qHSC
+**iHSC-reversion-to-qHSC.ka** : HSC_dynamics_model.ka where was add rules describing the reversion of iHSC toward qHSC
 
 ## Use
 
